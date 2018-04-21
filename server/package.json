@@ -1,0 +1,17 @@
+{
+  "name": "sourtaint_server",
+  "version": "1.0.0",
+  "description": "TV Ratings Over Time: dont let a sour episode taint a show",
+  "main": "sour_taint_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "imdb-api": "^3.1.2",
+    "lodash": "^4.17.5",
+    "mongodb": "^3.0.7"
+  }
+}
